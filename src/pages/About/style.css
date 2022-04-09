@@ -1,0 +1,13 @@
+.about {
+  width: 40%;
+  overflow: hidden;
+  height: fit-content;
+  /* margin: 10px; */
+  border-radius: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  overflow: scroll;
+  margin: 0px;
+}

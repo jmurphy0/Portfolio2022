@@ -1,0 +1,31 @@
+.aboutMeCard {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  background-color: #121212;
+  height: fit-content;
+  overflow: hidden;
+}
+.mypic {
+  border: none;
+}
+.card {
+  background-color: ;
+}
+
+.cardbody {
+  padding-top: 20px;
+  background: #121212;
+}
+
+.cardbody > p {
+  padding: 10px;
+  color: white;
+}
+
+.myLinks {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
