@@ -35,7 +35,7 @@ const index = () => {
           </label>
           <input
             type="email"
-            class="form-control"
+            className="form-control"
             id="exampleFormControlInput1"
             placeholder="name@example.com"
             name="email"
@@ -64,6 +64,7 @@ const index = () => {
             name="message"
           ></textarea>
         </div>
+        {/* when submit is clicked sendemail() function will be called to compose/send the email to me*/}
         <input type="submit" class="btn btn-secondary" value="Send" />
       </form>
     </div>

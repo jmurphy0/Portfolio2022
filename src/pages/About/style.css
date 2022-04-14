@@ -1,13 +1,12 @@
 .about {
-  width: 40%;
-  overflow: hidden;
+  width: 50vw;
+  overflow: scroll;
   height: fit-content;
-  /* margin: 10px; */
+  margin: 20px;
+  margin-top: 50px;
   border-radius: 10px;
 }
 .container {
   display: flex;
   justify-content: center;
-  overflow: scroll;
-  margin: 0px;
 }

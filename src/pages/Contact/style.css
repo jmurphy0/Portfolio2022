@@ -1,24 +1,24 @@
 .contact {
   justify-content: center;
-  overflow: hidden;
+  overflow: scroll;
   background-color: #292b2c;
   padding: 20px;
   align-items: center;
-  border-radius: 5px;
+  border-radius: 10px;
   width: 50vw;
   color: white;
-  max-height: 50vh;
+  height: fit-content;
+  margin: 20px;
+  margin-top: 50px;
 }
 .container {
-  padding-top: 50px;
-  border-radius: 10px;
-  width: 100;
+  width: 100vw;
   height: 100vh;
+  justify-content: flex-start;
 }
 #exampleFormControlTextarea1 {
   height: 200px;
 }
-.contact {
-  overflow-y: scroll;
-  overflow-x: hidden;
+.form-control {
+  margin-bottom: 10px;
 }

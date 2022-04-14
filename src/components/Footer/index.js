@@ -1,6 +1,7 @@
 import React from "react";
 
 const index = () => {
+  // returns a basic bootstrap footer
   return (
     <footer class="navbar fixed-bottom navbar-dark bg-dark mt-5">
       <div class="container-fluid justify-content-center">

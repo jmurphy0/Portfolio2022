@@ -6,6 +6,8 @@ import Note from "../imgs/notTaker.png";
 import Art from "../imgs/p1pic1.png";
 import Weather from "../imgs/weatherDash.png";
 import Planner from "../imgs/plannerPic.png";
+import newTab from "../imgs/newTab.png";
+import Paws from "../imgs/Paws.PNG";
 
 const Projectdata = [
   {
@@ -15,6 +17,22 @@ const Projectdata = [
     img: PantherImg,
     liveLink: "https://panther-chatroom.herokuapp.com/",
     githubLink: "https://github.com/PurplePanthers/PantherChatroom.git",
+  },
+  {
+    title: "Weather and Surf New Tab Extension",
+    description:
+      "Creates a fully resposive custome new tab page displaying local weather, a time dependent dynamic background and local surf conditions using bootstrap5, geoloaction, Open Weather Map API and Stormglass.io API.",
+    img: newTab,
+    liveLink: "https://youtu.be/YLzK_c_TE7U",
+    githubLink: "https://github.com/jmurphy0/Chrome-new-tab-extension-",
+  },
+  {
+    title: "Paws Mental Health",
+    description:
+      "A mental healh real-time chat website. Speak to psychologists or meet new people in the public chatroom. Built using MongoDB, Mongoose, Express, React, Nodejs, Pusher, Axios, Bcrypt and JSON-web-token.",
+    img: Paws,
+    liveLink: "https://paws-chat-app.herokuapp.com/",
+    githubLink: "https://github.com/Better-er-Help/project3",
   },
   {
     title: "Employee Directory",

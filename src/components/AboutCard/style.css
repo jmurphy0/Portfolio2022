@@ -8,14 +8,13 @@
 }
 .mypic {
   border: none;
-}
-.card {
-  background-color: ;
+  max-height: 60vh;
+  border-radius: 10px;
 }
 
 .cardbody {
   padding-top: 20px;
-  background: #121212;
+  background: #292b2c;
 }
 
 .cardbody > p {
