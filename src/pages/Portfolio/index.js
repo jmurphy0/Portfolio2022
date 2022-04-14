@@ -1,7 +1,5 @@
 import React from "react";
 import "./style.css";
-// importing required components
-import Porjectdata from "../../utils/Projectdata";
 import PortfolioCard from "../../components/PortfolioCard";
 import Projectdata from "../../utils/Projectdata.js";
 
