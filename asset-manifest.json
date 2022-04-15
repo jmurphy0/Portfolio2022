@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/http//:jmurphy0.github.io/Portfolio2022/static/css/main.98a7fafa.css",
+    "main.js": "/http//:jmurphy0.github.io/Portfolio2022/static/js/main.b53edd5f.js",
+    "static/js/787.445a6c50.chunk.js": "/http//:jmurphy0.github.io/Portfolio2022/static/js/787.445a6c50.chunk.js",
+    "static/media/myPic.jpeg": "/http//:jmurphy0.github.io/Portfolio2022/static/media/myPic.ea3ac2db6e75f5731528.jpeg",
+    "static/media/newTab.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/newTab.c419331b86c3b725fe68.png",
+    "static/media/directory.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/directory.918132a749688994a078.png",
+    "static/media/weatherDash.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/weatherDash.cede7514aef5fba86136.png",
+    "static/media/Paws.PNG": "/http//:jmurphy0.github.io/Portfolio2022/static/media/Paws.6bd617a0e250b1d80c60.PNG",
+    "static/media/p1pic1.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/p1pic1.3d43d10c90b7e0d4093b.png",
+    "static/media/main-room.JPG": "/http//:jmurphy0.github.io/Portfolio2022/static/media/main-room.eeaca22ba81d5612b5c0.JPG",
+    "static/media/notTaker.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/notTaker.90d0312f7876d30ed1ca.png",
+    "static/media/JohnMurphyResume.pdf": "/http//:jmurphy0.github.io/Portfolio2022/static/media/JohnMurphyResume.3686b4d29444a291de30.pdf",
+    "static/media/stats.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/stats.2679087a944773238ae0.png",
+    "static/media/plannerPic.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/plannerPic.7a97e0139dfb3ffc9dfa.png",
+    "static/media/budget.png": "/http//:jmurphy0.github.io/Portfolio2022/static/media/budget.2dc992a48132323d3ca4.png",
+    "static/media/psLvNG.jpg": "/http//:jmurphy0.github.io/Portfolio2022/static/media/psLvNG.394ce579d1469231c989.jpg",
+    "index.html": "/http//:jmurphy0.github.io/Portfolio2022/index.html",
+    "main.98a7fafa.css.map": "/http//:jmurphy0.github.io/Portfolio2022/static/css/main.98a7fafa.css.map",
+    "main.b53edd5f.js.map": "/http//:jmurphy0.github.io/Portfolio2022/static/js/main.b53edd5f.js.map",
+    "787.445a6c50.chunk.js.map": "/http//:jmurphy0.github.io/Portfolio2022/static/js/787.445a6c50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a7fafa.css",
+    "static/js/main.b53edd5f.js"
+  ]
+}
