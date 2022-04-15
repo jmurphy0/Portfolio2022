@@ -1,6 +1,6 @@
 .contact {
   justify-content: center;
-  overflow: scroll;
+  overflow: auto;
   background-color: #292b2c;
   padding: 20px;
   align-items: center;

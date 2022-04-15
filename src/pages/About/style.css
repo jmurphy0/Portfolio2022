@@ -1,12 +1,29 @@
 .about {
-  width: 50vw;
+  /* width: 40vw;
   overflow: scroll;
-  height: fit-content;
+  height: auto;
   margin: 20px;
   margin-top: 50px;
+  border-radius: 10px;
+  overflow-x: hidden; */
+  width: 40vw;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  scrollbar-color: black dark;
+  margin-top: 50px;
+  padding: 10px;
+  margin-bottom: 50px;
   border-radius: 10px;
 }
 .container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+}
+
+::-webkit-scrollbar {
+  width: 13px;
+  height: 13px;
 }
