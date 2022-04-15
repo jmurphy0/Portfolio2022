@@ -1,6 +1,6 @@
 # My Portfolio 2022
 
-site: https://jmurphy0.github.io/Portfolio2022/about
+site: https://jmurphy0.github.io/Portfolio2022/
 
 # Table of Contents
 
