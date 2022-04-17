@@ -13,16 +13,16 @@ const index = () => {
 
   return (
     <div className="container">
-      {/* portfolioHead contains a title and description */}
-      <div className="portfolioHead">
-        <h3>My Portfolio</h3>
-        <p>
-          A brief example of some of my past projects. Click the image to open
-          the live link or on the project title to open the github repository.
-        </p>
-      </div>
       {/* cardcont will display the array of cards created above */}
       <div className="cardcont" class="cardcont">
+        {/* portfolioHead contains a title and description */}
+        <div className="portfolioHead">
+          <h3>My Portfolio</h3>
+          <p>
+            A brief example of some of my past projects. Click the image to open
+            the live link or on the project title to open the github repository.
+          </p>
+        </div>
         {cards}{" "}
       </div>
     </div>
