@@ -16,7 +16,7 @@ const index = () => {
       {/* cardcont will display the array of cards created above */}
       <div className="cardcont" class="cardcont">
         {/* portfolioHead contains a title and description */}
-        <div className="portfolioHead">
+        <div className="portfolioHead card__container">
           <h3>My Portfolio</h3>
           <p>
             A brief example of some of my past projects. Click the image to open
