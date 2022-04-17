@@ -12,7 +12,9 @@
   justify-content: flex-start;
 }
 .portfolioHead {
+  display: contents;
   align-items: center;
+  justify-content: center;
 }
 .portfolioHead > h3 {
   justify-content: center;
