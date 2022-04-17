@@ -12,9 +12,6 @@
   justify-content: flex-start;
 }
 .portfolioHead {
-  margin-top: 50px;
-  display: flex;
-  flex-direction: column;
   align-items: center;
 }
 .portfolioHead > h3 {
